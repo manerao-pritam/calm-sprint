@@ -1,6 +1,10 @@
 [
     {
-        "name": "John Doe",
+        "contact_info": {
+            "name": {
+                "formatted_name": "John Doe"
+            }
+        },
         "experiences": [
             {
                 "role": "Software Engineer",
@@ -36,7 +40,11 @@
         ]
     },
     {
-        "name": "Jane Smith",
+        "contact_info": {
+            "name": {
+                "formatted_name": "Jane Smith"
+            }
+        },
         "experiences": [
             {
                 "role": "Accountant",
@@ -72,7 +80,11 @@
         ]
     },
     {
-        "name": "Mary Johnson",
+        "contact_info": {
+            "name": {
+                "formatted_name": "Mary Johnson"
+            }
+        },
         "experiences": [
             {
                 "role": "Marketing Manager",
