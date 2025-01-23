@@ -5,17 +5,17 @@
                 "formatted_name": "John Doe"
             }
         },
-        "experiences": [
+        "experience": [
             {
-                "role": "Software Engineer",
-                "location": "New York",
+                "title": "Software Engineer",
+                "location": {"short_display_address": "New York"},
                 "start_date": "Jan/01/2018",
                 "end_date": "Dec/01/2020",
                 "industry": "software"
             },
             {
-                "role": "Senior Software Engineer",
-                "location": "San Francisco",
+                "title": "Senior Software Engineer",
+                "location": {"short_display_address": "San Francisco"},
                 "start_date": "Jan/01/2021",
                 "end_date": "Dec/01/2024",
                 "industry": "software"
@@ -47,15 +47,15 @@
         },
         "experiences": [
             {
-                "role": "Accountant",
-                "location": "Los Angeles",
+                "title": "Accountant",
+                "location": {"short_display_address": "Los Angeles"},
                 "start_date": "Feb/01/2015",
                 "end_date": "Dec/01/2018",
                 "industry": "accounting"
             },
             {
-                "role": "Senior Accountant",
-                "location": "Los Angeles",
+                "title": "Senior Accountant",
+                "location": {"short_display_address": "Los Angeles"},
                 "start_date": "Jan/01/2019",
                 "end_date": "Jan/01/2023",
                 "industry": "accounting"
@@ -87,15 +87,15 @@
         },
         "experiences": [
             {
-                "role": "Marketing Manager",
-                "location": "Chicago",
+                "title": "Marketing Manager",
+                "location": {"short_display_address": "Chicago"},
                 "start_date": "Mar/01/2015",
                 "end_date": "Dec/01/2018",
                 "industry": "marketing"
             },
             {
-                "role": "Senior Marketing Manager",
-                "location": "Chicago",
+                "title": "Senior Marketing Manager",
+                "location": {"short_display_address": "Chicago"},
                 "start_date": "Jan/01/2019",
                 "end_date": "Jan/01/2022",
                 "industry": "marketing"
