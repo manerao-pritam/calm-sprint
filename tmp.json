@@ -80,11 +80,6 @@
         ]
     },
     {
-        "contact_info": {
-            "name": {
-                "formatted_name": "Mary Johnson"
-            }
-        },
         "experience": [
             {
                 "title": "Marketing Manager",
@@ -101,6 +96,11 @@
                 "industry": "marketing"
             }
         ],
+        "contact_info": {
+            "name": {
+                "formatted_name": "Mary Johnson"
+            }
+        },
         "skills": [
             {
                 "last_used": "Dec/31/2008",
