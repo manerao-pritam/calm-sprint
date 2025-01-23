@@ -45,7 +45,7 @@
                 "formatted_name": "Jane Smith"
             }
         },
-        "experiences": [
+        "experience": [
             {
                 "title": "Accountant",
                 "location": {"short_display_address": "Los Angeles"},
@@ -85,7 +85,7 @@
                 "formatted_name": "Mary Johnson"
             }
         },
-        "experiences": [
+        "experience": [
             {
                 "title": "Marketing Manager",
                 "location": {"short_display_address": "Chicago"},
